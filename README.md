@@ -9,11 +9,12 @@ IT테스터 과정입니다.
 
 <img src="dog.jpg"/>
 
-.[네이버 검색]_(htttp://www.naver.com)
+[네이버검색](https://www.naver.com)<br>
+[동물병원시스템프로젝트](https://github.com/sinaj1119/hello-world)<br>
+
+[발표자료](/project.pptx)<br>
 
 
-
-.[발표자료]_()
 
 
 ### 시스템 시연 영상
